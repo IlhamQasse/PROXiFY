@@ -1,0 +1,460 @@
+,Contract Address,Classification,Detailed Classification,upgradeable_x,upgradeable_y
+4,0xadbef24df642de86b95e2259f367463f6aec9047,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+19,0xbc2346c3c7f3998a12a1c8e7be44734ecc832763,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+28,0x7a939bb714fd2a48ebeb1e495aa9aaa74ba9fa68,Forward proxy,No assignments to local1 outside the fallback function,0,1
+64,0x000000885ffb27b4e2ab5284710729b96a58cac7,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+79,0x3ea496977a356024be096c1068a57bd0b92c7d7c,Forward proxy,No assignments to DFImplementation outside the fallback function,0,1
+94,0x61a24e2ca23c789a3e33f3cc9930ab199ca93892,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+98,0x00fc67076077381321e04eb1c6bdd7d681fd9fd6,Forward proxy,No assignments to local1 outside the fallback function,0,1
+112,0xc138413e1bc599ed09877f4659152ce080ab9d59,Not a proxy,No delegatecall found,0,1
+121,0x1337def1373bb63196f3d1443ce11d8d962543bb,Forward proxy,No assignments to local1 outside the fallback function,0,1
+128,0xd82308cbc710c4171f3fcc513f0670af8229f666,Forward proxy,No assignments to local1 outside the fallback function,0,1
+132,0x335e07b1465d1158b8300c675ee8903c65981266,Forward proxy,No assignments to local4 outside the fallback function,0,1
+140,0xd25ba3ee5f67b6b61620406646e709720015550b,Forward proxy,No assignments to local4 outside the fallback function,0,1
+147,0xd897b5458afe7e2dc26d94ec33cf7d09a9158568,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+148,0x9dce896ddc20ba883600176678cbee2b8ba188a9,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+190,0xc68b5eb9e035b2b84568a4c6201e3b200c0236ba,Not a proxy,No delegatecall found,0,1
+191,0x6dc804739d31169eb682d0572e500b559890081d,Forward proxy,No assignments to local1 outside the fallback function,0,1
+208,0xf86048dff23cf130107dfb4e6386f574231a5c65,Not a proxy,No delegatecall found,0,1
+210,0x901037e4e90d380c99dac5c792bb9320a65a2345,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+215,0x254891fc1d9545c5fd664b60702899e5e4008481,Forward proxy,No assignments to local1 outside the fallback function,0,1
+230,0x63d630b6d89c21e171e86c51c7243284510dbd79,Not a proxy,No delegatecall found,0,1
+240,0xbab93311de250b5b422c705129b3617b3cb6e9e1,Forward proxy,No assignments to local1 outside the fallback function,0,1
+249,0xf4311ad92f47187a2744295a2fc9097cc90d0104,Not a proxy,No delegatecall found,0,1
+253,0xc76c6aba244061afb07a6da5961f6046bdef969c,Forward proxy,No assignments to local1 outside the fallback function,0,1
+262,0xba4ffa404569e9ce1ca45b2c8f113108025483ec,Forward proxy,No assignments to dforceSplitImplementation outside the fallback function,0,1
+264,0x1337def157efdef167a81b3bab95385ce5a14477,Forward proxy,No assignments to local1 outside the fallback function,0,1
+269,0xe01025a466d3faf937b23c6366f5509f0cea37d1,Forward proxy,No assignments to local4 outside the fallback function,0,1
+276,0xacd5b642a3f2ce2d0796097c90f19395ee3312ab,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+302,0x8c4b4e9b0b8e9ebc4aac12826d78e0a87f8fd519,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+329,0x406555dbf02e9e4df9adeaec9da76abeed8c1bc3,Not a proxy,No delegatecall found,0,1
+336,0x2499e7259594044d7cc0a6fe27f4935d62ef1dbf,Not a proxy,No delegatecall found,0,1
+341,0xf7011510572d0efe31d1e90cd6dc1ef84e6b13b8,Not a proxy,No delegatecall found,0,1
+344,0xb8790c911fa32132eddcfd250454dff0448682b8,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+351,0xbd27ce697a32476098b788b239e57aacc6dfcf72,Forward proxy,No assignments to dTokenImplementation outside the fallback function,0,1
+353,0x16c9cf62d8dac4a38fb50ae5fa5d51e9170f3179,Forward proxy,No assignments to dTokenImplementation outside the fallback function,0,1
+360,0x3f3804176d90640ac6063124afd4bc0636ac85b6,Not a proxy,No delegatecall found,0,1
+362,0xfd09cf7cfffa9932e33668311c4777cb9db3c9be,Forward proxy,No assignments to local11 outside the fallback function,0,1
+373,0x62178a673f621d5f4bb7d16f986c0a7ba3207385,Forward proxy,No assignments to local1 outside the fallback function,0,1
+392,0x16659ef4f9925b4e0c5c3df5763fbd8e8bb9ea7e,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+395,0xf5ce09e1442ef2ed40a27c185ec42b33e5f53e30,Forward proxy,No assignments to local1 outside the fallback function,0,1
+404,0x525794473f7ab5715c81d06d10f52d11cc052804,Forward proxy,No assignments to local1 outside the fallback function,0,1
+413,0x61ee8806891e9411722ad20c1e30be7da8ad933d,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+428,0x5de89cb4d6dc83a2a3279d8d9de936d870e0e7e8,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+438,0x0a06b69bc6157e603a4806c1a5bf7bb88591c946,Not a proxy,No delegatecall found,0,1
+440,0xaa8467672eeea00876da103f259593272576a82a,Forward proxy,No assignments to local1 outside the fallback function,0,1
+454,0x46262af08d6b795efb08b4a6e486208f889e0c60,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+457,0x42d03f506c2308ecd06ae81d8fa22352bc7a8f2b,Not a proxy,No delegatecall found,0,1
+463,0x1337def1c5ebbd9840e6b25c4438e829555395aa,Forward proxy,No assignments to local1 outside the fallback function,0,1
+464,0x0000000000085d4780b73119b644ae5ecd22b376,Forward proxy,No assignments to local4 outside the fallback function,0,1
+466,0x8916a9b0064feab04b3bf3729adbb0be119ed12d,Forward proxy,No assignments to dTokenImplementation outside the fallback function,0,1
+484,0xf457ea19f2bbfb5f7c7c647c04edb05bdfe7177e,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+494,0x7c8511cb0f44938644e7326f848800d2cdefcdba,Not a proxy,No delegatecall found,0,1
+495,0x517acf504117ebc90d0b7099e0fcd85d8ef54501,Forward proxy,No assignments to local1 outside the fallback function,0,1
+510,0x6538f7e8cfe5806a72da90468049b088e140860e,Forward proxy,No assignments to local1 outside the fallback function,0,1
+512,0x53aa48b2ac0071a6ce61ddb3ba4e41d395b2db51,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+520,0x9403d608515f7346ec44b998984d7741fd0d9bd4,Forward proxy,No assignments to local1 outside the fallback function,0,1
+533,0xfed91f1f9d7dca3e6e4a4b83cef1b14380abde79,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+546,0x91dbc6f587d043fefbaad050ab48696b30f13d89,Not a proxy,No delegatecall found,0,1
+550,0x1416946162b1c2c871a73b07e932d2fb6c932069,Forward proxy,No assignments to local1 outside the fallback function,0,1
+571,0x49748176576d4997c932ed6dae10d8f18937b6fb,Forward proxy,No assignments to local1 outside the fallback function,0,1
+581,0xce88906100c145522be3a509683881241abb3c52,Not a proxy,No delegatecall found,0,1
+592,0xd4445fd8b33445185031c2cbeb08c805d234b156,Forward proxy,No assignments to local1 outside the fallback function,0,1
+594,0x09400ec683f70174e1217d6dcdbf42448e8de5d6,Not a proxy,No delegatecall found,0,1
+597,0x54a0326fb698c2cfaca5327550a897fa66d21f07,Not a proxy,No delegatecall found,0,1
+607,0xc5bfbc63dc8d36e81434e93e0ee097999879d7f4,Not a proxy,No delegatecall found,0,1
+619,0xec4c73263957decaa1c0a207a18c6745d68087df,Forward proxy,No assignments to local1 outside the fallback function,0,1
+625,0x8c6680412e914932a9abc02b6c7cbf690e583afa,Not a proxy,No delegatecall found,0,1
+626,0xd76c5b71ba091c785aec1a5c1c901b04876d073b,Unknown,Failed to decompile bytecode,0,1
+628,0xd47c5020491de9240947d8aed174abd184574955,Not a proxy,No delegatecall found,0,1
+631,0x58a4cdba423a4d143426951512f066a995527bff,Not a proxy,No delegatecall found,0,1
+633,0xbdbc2a5b32f3a5141acd18c39883066e4dab9774,Forward proxy,No assignments to local1 outside the fallback function,0,1
+642,0xdbab64b9669e3290b367a1c261a44323a62a7ae4,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+643,0xa9203f3303126243c8d181006ab03b2474e3c084,Forward proxy,No assignments to local4 outside the fallback function,0,1
+645,0x56a71fe44d9516646d4719dfbee94076b77b4b12,Not a proxy,No delegatecall found,0,1
+653,0x8ebe51a2363fa375d6f5163ec7bbac4a86264aa8,Forward proxy,No assignments to local4 outside the fallback function,0,1
+659,0xfca2e82e5414c695c81b99d753b0b11c50bdc93d,Not a proxy,No delegatecall found,0,1
+670,0x8f0e3e1f0e1f404f780d6dd11d0a3d9c16b5be01,Not a proxy,No delegatecall found,0,1
+700,0x0a24864596c54d79c825e64b281645249c14590c,Not a proxy,No delegatecall found,0,1
+706,0x3f78fdcd22930c3b31f2c83d24c9c4bb49403a16,Forward proxy,No assignments to local1 outside the fallback function,0,1
+712,0xad7258d0054c03112a4f5489a4b24ec34a2fc787,Not a proxy,No delegatecall found,0,1
+724,0x2137ffbbb279218e1a61d4483ded9c9a017e9257,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+727,0xc937f5027d47250fa2df8cbf21f6f88e98817845,Upgradeable proxy,Variable libAddress assigned outside the fallback function,1,0
+730,0x478539f32a58286fcdfec9f4c07fcd64aed44f68,Forward proxy,No assignments to local1 outside the fallback function,0,1
+740,0x4917e9ef69e3a1c82651c9158ca2c25b3a564760,Not a proxy,No delegatecall found,0,1
+754,0xf778ec504245efe1ea010c5c3e50b6f5f5e117da,Not a proxy,No delegatecall found,0,1
+761,0x1c9491865a1de77c5b6e19d2e6a5f1d7a6f2b25f,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+762,0x000000da8006f1db5488089803fa004c53451410,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+778,0x6a219c22cb5b05737a7337a306e47dbc6ded5965,Not a proxy,No delegatecall found,0,1
+795,0xbfb70cd7e66ec1a2708940abda5824cdcbca9e9b,Forward proxy,No assignments to dforceSplitImplementation outside the fallback function,0,1
+804,0x9909d4ab54ef68974bc13f27b8a2c2777239a321,Forward proxy,No assignments to local1 outside the fallback function,0,1
+831,0xa6b82e68043ea51514acc9c2cd82b9b06176fa3e,Forward proxy,No assignments to dforceSplitImplementation outside the fallback function,0,1
+852,0x71535ad4c7c5925382cdeadc806371cc89a5085d,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+856,0xe31a98aa52a5fd60a1c56b8d6fa8469b8c6bcc64,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+860,0xf6a6e8dbfdaf43a372c703f02f12cb91d105d537,Upgradeable proxy,Variable local4 assigned outside the fallback function,1,0
+878,0xa66d320450fb2c01a2648899f4899a32f04bd369,Upgradeable proxy,Variable local3 assigned outside the fallback function,1,0
+884,0xa338adf3fb4a5d23985ff69794bf92de22228105,Forward proxy,No assignments to local1 outside the fallback function,0,1
+886,0x6733a09885f6055fef29ffee54077bfb157a3de4,Forward proxy,No assignments to local1 outside the fallback function,0,1
+895,0xdca9cd8f76e6a017c0c288af195481cf0cd458fd,Forward proxy,No assignments to local1 outside the fallback function,0,1
+910,0xb9fb8a22908c570c09a4dbf5f89b87f9d91fbf4a,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+915,0x0387b1f2a43c8b15e55297a170125324c966d239,Not a proxy,No delegatecall found,0,1
+920,0x457cd14f384e7d103b17feeb01d2a42ad2eca529,Not a proxy,No delegatecall found,0,1
+932,0xc1898eb209903aae3f61d2da97f36af3648d00ce,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+938,0xa3de830b5208851539de8e4ff158d635e8f36fcb,Not a proxy,No delegatecall found,0,1
+961,0x2974d237597e3c449cfc82f0bbbe2083e77c6f29,Forward proxy,No assignments to local1 outside the fallback function,0,1
+967,0x1337def159da6f97db7c4d0e257dc689837b9e70,Forward proxy,No assignments to local1 outside the fallback function,0,1
+970,0xc025d6cc81bb98b7beb7484ab9f93b6e91a25fd5,Forward proxy,No assignments to local3 outside the fallback function,0,1
+987,0xfe6cd6de459db214818492f532ec02ba87319437,Not a proxy,No delegatecall found,0,1
+991,0x2420057461bd2fb756e0a610897c51de7fb18311,Not a proxy,No delegatecall found,0,1
+996,0xc66a263f2c7c1af0bd70c6ca4bff5936f3d6ef9f,Not a proxy,No delegatecall found,0,1
+1009,0xc2c10f6176ddcea8c3c64b50a91e65211571553c,Unknown,Failed to decompile bytecode,0,1
+1012,0xbcdd2a069a46e9b5d032d2f99725418508ce6aee,Forward proxy,No assignments to dTokenImplementation outside the fallback function,0,1
+1013,0x817c39c8825e12ea7752483c85dd2c800b78b357,Not a proxy,No delegatecall found,0,1
+1017,0xbf14ab5a0dbd74fbf9ac7712186f8d8610b8edcb,Forward proxy,No assignments to local1 outside the fallback function,0,1
+1019,0xfd062d0ebc900ef504435dce9347797d3b5e12aa,Forward proxy,No assignments to local4 outside the fallback function,0,1
+1029,0x10b7adf57d60e0b33acb0de99afda4471ea989e3,Not a proxy,No delegatecall found,0,1
+1034,0x3adf48629d12cb81f33e7d6f39cce7f3a9562728,Forward proxy,No assignments to local1 outside the fallback function,0,1
+1038,0x27785351924abff1895cbfd6622b93692e5d7537,Forward proxy,No assignments to local1 outside the fallback function,0,1
+1041,0xccda7941ab1ac7a32f49843c0b3edf618b20f6ae,Not a proxy,No delegatecall found,0,1
+1049,0x75ce0e501e2e6776fcaaa514f394a88a772a8970,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+1053,0x9642c7026822391100a4773d7aa597ae18ece7dd,Not a proxy,No delegatecall found,0,1
+1054,0x86eab2917202ede1310928724ae6522027126d4d,Forward proxy,No assignments to local1 outside the fallback function,0,1
+1064,0x54c532e367031f56c401c6024ac4abeff2b03534,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+1067,0x282be0f2f2e56ada86acfef367389f6f805003b3,Forward proxy,No assignments to local4 outside the fallback function,0,1
+1083,0x2cd4e8d82f62a91b2299b083ba08532a6a96a13a,Forward proxy,No assignments to USRImplementation outside the fallback function,0,1
+1091,0x443d2f2755db5942601fa062cc248aaa153313d3,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+1098,0x9792ee4c36a622a8cf9566b037c57519a9fe8a56,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+1106,0x36b8fddea10d6cb31ba48124f307954070292c8d,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+1117,0x0e182c65d2bf128dbb28fb6f2b9edd65b0142b4c,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+1122,0x06805e03cc3ceff7a13bed0b2f40d7abd515699d,Forward proxy,No assignments to local1 outside the fallback function,0,1
+1127,0xa05123fa6c495716fa1838c192aa60ce05d427ab,Forward proxy,No assignments to local1 outside the fallback function,0,1
+1144,0xb5c18e59ac0ee2fe1a91542981dd5efd8b6ee5c0,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+1150,0xa64cf4fc6003f34de14e19abdde85830a3266ee6,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+1169,0x1337def1900ceaabf5361c3df6af653d814c6348,Forward proxy,No assignments to local1 outside the fallback function,0,1
+1212,0x07cf2e8150e442e74fa8a9c42b54d96fda1c6d75,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+1215,0xddafc18a1f0f4e5b78c14391bda65e113096f5af,Forward proxy,No assignments to local1 outside the fallback function,0,1
+1219,0x5ea2544551448cf6dcc1d853addd663d480fd8d3,Not a proxy,No delegatecall found,0,1
+1226,0x0bd148b3c06416e83ddf6662381ee32c4a0bd714,Forward proxy,No assignments to local1 outside the fallback function,0,1
+1229,0x19eb6536777713acdaca8dd9a3ad9843d74e9e3b,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+1243,0x3bdf1977d87edad8e0617efcea958f6d43a4c30e,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+1268,0x60ad532f956b48d7f9fae3c1398197295f2f48e6,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+1272,0x4b96392d597fad663993afc9a5e4849cfd7e2b7d,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+1281,0xdc3c72d69ebc8f4642aa17ad60f8c230c40593af,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+1289,0xdb99fc1d8bfd4cd0080d630a2c29761d015114c0,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+1290,0xb80ad6c00bd663c2b7893cd6ede3f3c5c055e014,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+1297,0x580c8520deda0a441522aeae0f9f7a5f29629afa,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+1305,0x82fdd400d38e43a063d9a4bbe83992e89636157e,Forward proxy,No assignments to local1 outside the fallback function,0,1
+1323,0x2ae21632cbcc5a2835238258b8bfb627bed139fd,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+1325,0xf4f5da5d5141f73998bb9c2ef548bf47104e9d8f,Forward proxy,No assignments to local4 outside the fallback function,0,1
+1343,0x5f705b4f5bcbd3a3536b20420cc581cbbe280bff,Unknown,Failed to decompile bytecode,0,1
+1344,0x3479b0acf875405d7853f44142fe06470a40f6cc,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+1358,0xb08fe5debb2838d9f4a91132c3a87678007da9a3,Forward proxy,No assignments to local1 outside the fallback function,0,1
+1365,0x6854ad6c9e6df6dfc31d16ef6df72b8404fab227,Forward proxy,No assignments to local1 outside the fallback function,0,1
+1378,0x95a4492f028aa1fd432ea71146b433e7b4446611,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+1407,0x8a3ca1d2d9a05683eb4db447d0e3122fec09d9ee,Not a proxy,No delegatecall found,0,1
+1417,0xd8c733ac0b2db47bba7af7716eb696e62c417d5b,Not a proxy,No delegatecall found,0,1
+1441,0x5b698af82746f75e9ebc2a9b48a83274768d28f2,Not a proxy,No delegatecall found,0,1
+1453,0x3929122b2799b9f76ab908dc0b3c2b9fdafc30e1,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+1458,0x0f5bdfd0958345c2e7adb1741024aed6dd159e6c,Not a proxy,No delegatecall found,0,1
+1467,0xe0f8e44d86c43f2c60ea6262cd4e722b02374b03,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+1469,0xeb98dcdaef4019c422a5b478b13124dae97d6a6c,Forward proxy,No assignments to local1 outside the fallback function,0,1
+1471,0x54b66bd81e24a34ade9ad3a11a1f7e118fd57170,Forward proxy,No assignments to local1 outside the fallback function,0,1
+1474,0xb98908fc036aeb7f4fba8464da2b2dd9cab777d7,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+1476,0x12ad79aef31f5a7274523a929870d46a19536136,Forward proxy,No assignments to local1 outside the fallback function,0,1
+1477,0xf13f9e75913b352622f8aeea5ac32498b1c228d0,Not a proxy,No delegatecall found,0,1
+1490,0x89ce39fe632b002258ef3ffacdf1f1f1b1cd68b5,Forward proxy,No assignments to local1 outside the fallback function,0,1
+1493,0x8fca3f80cd8b9d125a85fadfe86c00134e2c7ddb,Not a proxy,No delegatecall found,0,1
+1511,0x50c784f86aae52d02335f66af154146aa4920f01,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+1526,0xd8d39bc1ce7e90dc945d0b5d1b365707573ee308,Forward proxy,No assignments to local1 outside the fallback function,0,1
+1529,0x87a989ea29ed78c2d66abde787622078b89b0109,Not a proxy,No delegatecall found,0,1
+1533,0xbccbbc11a72985f25ade7cb3618da4e64f1bf138,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+1538,0xf36eadc8c7321e858bacffec9d4c902f979482fc,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+1540,0xae7ab96520de3a18e5e111b5eaab095312d7fe84,Forward proxy,No assignments to local11 outside the fallback function,0,1
+1597,0xa70abeaca1d6bba0f511758a0d66b7f59fd3f166,Forward proxy,No assignments to local4 outside the fallback function,0,1
+1604,0xb119ce94d098c18fe380904c24e358bd887f00be,Forward proxy,No assignments to local1 outside the fallback function,0,1
+1606,0xf0159d041db29029ccf285a1043dcaac7088030b,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+1609,0xccc395f0ebfaa26dcc2d3bacc23d55614002236b,Not a proxy,No delegatecall found,0,1
+1625,0xa7ea83b7147c25cdec59ff02f7dcf687caa91198,Forward proxy,No assignments to local4 outside the fallback function,0,1
+1632,0xce3a417b74f4f19de7155cbfac4b703aed9ff9a2,Forward proxy,No assignments to local1 outside the fallback function,0,1
+1633,0x6e88216162af2388509da76d844cf77931f86de7,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+1662,0x6d7dc3f851f987f7cc8b97fa461ad9c491f0d43d,Forward proxy,No assignments to local4 outside the fallback function,0,1
+1668,0xa665271c365f9d9a149866574a5b047dd9e3d31b,Forward proxy,No assignments to local4 outside the fallback function,0,1
+1689,0x57ff288dd9d478b046647a5ab917195449f1f6e5,Not a proxy,No delegatecall found,0,1
+1715,0x247b6b13ad67d9c795a25c1d9a6c3857166e4b1a,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+1732,0xcbbb17d9767bd57fbf4bbf8842e916bcb3826ec1,Not a proxy,No delegatecall found,0,1
+1738,0x83266a95429b903cc5e954bf61c7eddf8a52b971,Not a proxy,No delegatecall found,0,1
+1749,0x96f9d144e55149437640512b82d7dda065e89773,Not a proxy,No delegatecall found,0,1
+1758,0x09a69bb256c929aa77dc0aca9c9327fa6ccf475a,Not a proxy,No delegatecall found,0,1
+1760,0x31f796ce7fe2c17aec7cd53b9aa1ab0081cad7a4,Forward proxy,No assignments to local1 outside the fallback function,0,1
+1811,0x2b74eb5a4e59b87d20cd03c3df2a5150d0651b90,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+1818,0xf888ce41234d57acb5f1afd0f6d3d6ff86574c1a,Forward proxy,No assignments to local1 outside the fallback function,0,1
+1820,0x1337def1fc06783d4b03cb8c1bf3ebf7d0593fc4,Forward proxy,No assignments to local1 outside the fallback function,0,1
+1822,0xe40fc942c86add7686a27c18df742aac9044792b,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+1834,0x1b72255a11df705bb598e670830e03a19f2d242f,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+1837,0x47a24a75f1be8cae389dcce0a8d03d2e1a2015d7,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+1846,0x7ec81b7035e91f8435bdeb2787dcbd51116ad303,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+1874,0xc3b6a0689cb6515cc93269585f96383b27bb9bdb,Forward proxy,No assignments to local1 outside the fallback function,0,1
+1882,0xd74bee51abbeff07a89dd90305667c1e17212afa,Forward proxy,No assignments to local1 outside the fallback function,0,1
+1887,0x5f7a299be82d8f5a626300c62c477b233f616121,Not a proxy,No delegatecall found,0,1
+1890,0xfbc2f3582e3e40f86d21432ee07f311a426b4b1e,Forward proxy,No assignments to local1 outside the fallback function,0,1
+1894,0x3ddf5dad59f8f8e8f957709b044ee84e87b42e25,Not a proxy,No delegatecall found,0,1
+1895,0x79bef89a63be04a75f1fa42e8f42ad873b6f43e2,Not a proxy,No delegatecall found,0,1
+1924,0x6d2cb724a0cec656d3beafd7626a2273d1c676d9,Forward proxy,No assignments to local1 outside the fallback function,0,1
+1930,0x43e1505e315be6c8b875a37f7d8753ba84140a37,Not a proxy,No delegatecall found,0,1
+1941,0xa4db07460c7473ef3aaf2c26da46b00a4d986d72,Forward proxy,No assignments to local4 outside the fallback function,0,1
+1945,0xec114001d23eefe6624fb42ccbf4b3c793e295f1,Not a proxy,No delegatecall found,0,1
+1947,0x906fd331f5e382f05b8ae26900140c37f0db139a,Not a proxy,No delegatecall found,0,1
+1953,0x9d4193187b247a400e8d8ba716f1c18c0dc65528,Not a proxy,No delegatecall found,0,1
+1954,0x50daabcf9d349a8b7b1b343546fd9fd171c1e532,Not a proxy,No delegatecall found,0,1
+1964,0x163ddb3da1092031e7f2ad26d6c572ab67bb2bdc,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+1974,0xb0c85c099094e73ffc1df23c8309a8b14c64420a,Forward proxy,No assignments to local4 outside the fallback function,0,1
+1989,0xbb9ed9cb9bc075ab50d196fee6611fbb93300968,Forward proxy,No assignments to local1 outside the fallback function,0,1
+1999,0x0a62cc5ebfa79b155b4ec90e74c00e0176692772,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+2010,0x41ca88009a678cf6e15ce226f3b4dd2553c74bf5,Forward proxy,No assignments to local1 outside the fallback function,0,1
+2023,0xb316c4057202cfa2c94d01f06a2a930a4b0cd83b,Upgradeable proxy,Variable decimals assigned outside the fallback function,1,0
+2027,0xae60f31d87ebb62eceb5ec466985afc3c5782fef,Forward proxy,No assignments to local1 outside the fallback function,0,1
+2039,0xf644f1341eb9bfa37003b2be2db39e2386b66053,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+2059,0x1337def1b1ae35314b40e5a4b70e216a499b0e37,Forward proxy,No assignments to local1 outside the fallback function,0,1
+2060,0x718ab58f1e75f988ce3ec5fa272952766f0e7c6b,Forward proxy,No assignments to local1 outside the fallback function,0,1
+2065,0x2cb1b47fb16013798086f267e04e6579dcb72a74,Not a proxy,No delegatecall found,0,1
+2086,0xdd87cbde3c1f8f728c7924c8c9c983af6dfcfea8,Not a proxy,No delegatecall found,0,1
+2103,0x2d2d29e7b06c003f457323250162d63f6f6c7027,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+2110,0x0e87a320dace86a0b427fa2bae282de5c7697278,Not a proxy,No delegatecall found,0,1
+2111,0x21636c64200be3f20ea0c2633829cccde63278f7,Forward proxy,No assignments to dforceSplitImplementation outside the fallback function,0,1
+2141,0x530608409991c36ba922b69623bec57e22b8d331,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+2149,0x03c41c5aff6d541ef7d4c51c8b2e32a5d4427275,Forward proxy,No assignments to local4 outside the fallback function,0,1
+2154,0x72661e76475354403838eb04144206f70ff97d79,Not a proxy,No delegatecall found,0,1
+2160,0x36f061bc3314793c5637fb79421294c061ead108,Forward proxy,No assignments to local4 outside the fallback function,0,1
+2161,0xf5e775bbdca4388269676ebe4166b1462352a02b,Forward proxy,No assignments to local4 outside the fallback function,0,1
+2162,0x169ea2e2c8783a9da305f563c65793525e831f62,Forward proxy,No assignments to local1 outside the fallback function,0,1
+2172,0x99bcc501d04f400ba3f78b5375d00b56ace6ee0d,Not a proxy,No delegatecall found,0,1
+2175,0x93047ce776e3decdc837598f5a752083ccfedb32,Forward proxy,No assignments to local1 outside the fallback function,0,1
+2184,0xae55f163337a2a46733aa66da9f35299f9a46e9e,Not a proxy,No delegatecall found,0,1
+2191,0xea9c5a2717d5ab75afaac340151e73a7e37d99a7,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+2194,0x0e63e31e17f9854cf85939261a17177328ae22ee,Forward proxy,No assignments to local1 outside the fallback function,0,1
+2199,0xd82375e981fbb5b2a0dde6bca75e35d1c7b5de7d,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+2202,0xc2bebef46f593a8092556d9a59766491d070490a,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+2208,0xadad43be81e2206f6d1af4299ca2a029e16af7ab,Not a proxy,No delegatecall found,0,1
+2218,0xe541504417670fb76b612b41b4392d967a1956c7,Forward proxy,No assignments to local1 outside the fallback function,0,1
+2234,0xb99d129d3757f338dfc6438194f505db0b62b021,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+2236,0x8e39e807d9eae1ced9bce296f211c38ba5ab2f9b,Not a proxy,No delegatecall found,0,1
+2239,0xf6da5f5f236355fafea28d7a763a5aca053afcec,Forward proxy,No assignments to local1 outside the fallback function,0,1
+2254,0x13645ef516d1051b2930463fcce1da2bca5d21c0,Forward proxy,No assignments to local1 outside the fallback function,0,1
+2265,0x10a0532de3c86d9ce810f004fabcf5a1ea464390,Not a proxy,No delegatecall found,0,1
+2270,0x80edac70ec108a9c5b47972da9924397ba974ff9,Not a proxy,No delegatecall found,0,1
+2272,0x93cff799f255eda2089cfb3f05696b5b66873c1a,Not a proxy,No delegatecall found,0,1
+2292,0x64972bf5d95d45f76e9d58c25f1f307598ba436b,Forward proxy,No assignments to local1 outside the fallback function,0,1
+2298,0x7cb89c509001d25da9938999abfea6740212e5f0,Not a proxy,No delegatecall found,0,1
+2302,0x6178ea078ef1bb75b320f4489117e7dfd7f15f88,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+2312,0x6ad66dac965f61e55479213872a2f36908f30b58,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+2342,0x9662945b44ac906a3bfa87aeee4375c2acd62254,Not a proxy,No delegatecall found,0,1
+2392,0x2dea20405c52fb477ecca8fe622661d316ac5400,Unknown,Failed to decompile bytecode,0,1
+2396,0xda4a90c4d06e2384148a2e67e44a504a8f555f54,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+2397,0x22138ba6e6324a7cb67ca2f6ad70f6f6c76a2b64,Forward proxy,No assignments to local1 outside the fallback function,0,1
+2400,0x649fdf6ee483a96e020b889571e93700fbd82d88,Forward proxy,No assignments to local4 outside the fallback function,0,1
+2404,0x0000000000013949f288172bd7e36837bddc7211,Forward proxy,No assignments to local4 outside the fallback function,0,1
+2413,0x33c3964b9b2afd3b26dec1a5edafa9a419d9c4c6,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+2418,0x5520ec6a7e33ea5d4b6bef89ce6e637d62d301a6,Forward proxy,No assignments to local4 outside the fallback function,0,1
+2446,0x302a11ef22a2485d15a3a9b460fa4d87988b1d7e,Not a proxy,No delegatecall found,0,1
+2450,0x489d4d4c4bc781eaab3a36c44d66762ceb6e1e2d,Not a proxy,No delegatecall found,0,1
+2451,0x5e17f6f450dcb0bc69b232ea554e224d7e88067a,Forward proxy,No assignments to local1 outside the fallback function,0,1
+2457,0x1228c7d8bbc5bc53db181bd7b1fce765aa83bf8a,Not a proxy,No delegatecall found,0,1
+2469,0xec9dcb3dc47ff5edc02666ce4db459841853b7b4,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+2481,0xbb7d75be4dc8eb15ff90422137c0a5bcbd316953,Forward proxy,No assignments to dTokenImplementation outside the fallback function,0,1
+2504,0x1af13167adfdb07962e00d3453955537e2116dea,Forward proxy,No assignments to local4 outside the fallback function,0,1
+2505,0x4f16a20450d36bfb3e3926df357f1405d79ff81e,Forward proxy,No assignments to local1 outside the fallback function,0,1
+2521,0x05dd55c18999b4a2f905978c029b85da37750170,Not a proxy,No delegatecall found,0,1
+2525,0x7fdcdad3b4a67e00d9fd5f22f4fd89a5fa4f57ba,Forward proxy,No assignments to DFImplementation outside the fallback function,0,1
+2542,0x555ddd7c3999010cff0ae3671d31cb376fa638f0,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+2547,0xf722a21b6aa0b9e179b5ff33b6070b153491a9e5,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+2558,0x01bfd82675dbcc7762c84019ca518e701c0cd07e,Forward proxy,No assignments to local4 outside the fallback function,0,1
+2560,0x17a1d9f441a6e6c4ff901de8e5864f8a5746a950,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+2568,0xb706d79427e6aea5c2d1cab0fff215b26d37339b,Unknown,Failed to decompile bytecode,0,1
+2607,0xbb38d10033b26f3836a8c1e41788206868b9f228,Forward proxy,No assignments to local1 outside the fallback function,0,1
+2613,0xb2c86bcda2b845e7c61eb5443bc9bb57d48e4bb6,Forward proxy,No assignments to local5 outside the fallback function,0,1
+2632,0x295ca8f32887eda83bc0d90c31a2594d93330ca2,Forward proxy,No assignments to local1 outside the fallback function,0,1
+2635,0x1c5a768bdb10750f9007e33243fef5f3e094ad3a,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+2638,0x9fe7fd9e6b851cb91de687bd29f81566ca856a29,Forward proxy,No assignments to local1 outside the fallback function,0,1
+2641,0xeada4c7dd78a734edd680f2ab84251c9a25b6743,Forward proxy,No assignments to local1 outside the fallback function,0,1
+2644,0x46999db20fb9c94ce3c9762a3c2541157a2a607b,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+2647,0x928d61da73b6d507b23b99f2219073a8d97683b1,Forward proxy,No assignments to local1 outside the fallback function,0,1
+2655,0xbd88d2ddf55b65bdbba6f6a5a626b854835d7844,Not a proxy,No delegatecall found,0,1
+2667,0x0660f3fd94c95a9f77df3f1e7bb9150b25cc0132,Forward proxy,No assignments to local1 outside the fallback function,0,1
+2679,0x6aa0f8620614afe9bd4aba3148439b08eb2557c0,Not a proxy,No delegatecall found,0,1
+2685,0xbfb8db211bce25b05cf120e5a9a40b2f37727fff,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+2692,0xfd5136afb7d8ea81023f69e1eebadaad35a49cbc,Not a proxy,No delegatecall found,0,1
+2693,0x0177e992ed8561d31e856c38d2ff3a41d343030b,Forward proxy,No assignments to local1 outside the fallback function,0,1
+2698,0x5772fd03181542a09971c2d7fbf7f9a63f44395c,Forward proxy,No assignments to local1 outside the fallback function,0,1
+2702,0x90104927a2b800fabdac0e66d937ad9a2847bfb9,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+2712,0x799fae7897c5bc2db817d25ad9f5357d9c353de4,Not a proxy,No delegatecall found,0,1
+2724,0x657b689df020cc9c4dea4bab984ea23dc5bacbdb,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+2741,0x25119803a25fc42f6af13eb86fc43a85fa6059f5,Forward proxy,No assignments to local1 outside the fallback function,0,1
+2747,0xef004c5cdfaab19299b3ed66f14ec010fe5f20d0,Forward proxy,No assignments to USRImplementation outside the fallback function,0,1
+2751,0x5498c8ab3c04de12aba7fe46da31e6336e40dc98,Forward proxy,No assignments to local1 outside the fallback function,0,1
+2755,0x256fa9b43610156e3a787310545059357b64b793,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+2779,0x1337def1670c54b2a70e590b5654c2b7ce1141a2,Forward proxy,No assignments to local1 outside the fallback function,0,1
+2793,0x91df0ffc1b95113ba1f41ca0669fccaec0f55876,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+2798,0x2de37af5ba64f5cae3202bf13dbedc4d46e8046f,Not a proxy,No delegatecall found,0,1
+2819,0x957b28f93b0e01557e21e6c564ab26ddc2d18ec5,Forward proxy,No assignments to local1 outside the fallback function,0,1
+2828,0xe64796fcc97c33a2193ba60f013f3fa5d4712d56,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+2833,0x648dd6e46e796d1c18c469c1b849887580ccc74f,Forward proxy,No assignments to local1 outside the fallback function,0,1
+2834,0x1337def1c79053da23921a3634adbd12f3b748a5,Forward proxy,No assignments to local1 outside the fallback function,0,1
+2848,0xd85ac522a67666bdc625d91051bd7aa6a1d91ebe,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+2849,0xc5d2b3f5daf11b6111af86a72a5938b0fe6c5045,Not a proxy,No delegatecall found,0,1
+2851,0x404a995c4ba79ebaac76da27b3421e1a1efb12ae,Forward proxy,No assignments to local4 outside the fallback function,0,1
+2877,0xa50142739c3d365b5348602e7d976def9369d5fc,Not a proxy,No delegatecall found,0,1
+2883,0xf9c8ca1d737581446cf3b17582256142ab1464a8,Upgradeable proxy,Variable local6 assigned outside the fallback function,1,0
+2888,0x8a2efd9a790199f4c94c6effe210fce0b4724f52,Not a proxy,No delegatecall found,0,1
+2898,0xca2308a86ed57d18856c05be9f4ddf7454933ccc,Forward proxy,No assignments to local4 outside the fallback function,0,1
+2911,0x5fb2859eea84bc8932e200b26d4a8280d233cf99,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+2922,0x6d9cc14a1d36e6ff13fc6efa9e9326fcd12e7903,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+2940,0x6511d8686eb43eac9d4852458435c1bec4d67bc6,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+2950,0x6eca3176214536933908a703ec4a839c169832bb,Forward proxy,No assignments to local1 outside the fallback function,0,1
+2953,0x66b86625ee80b06e94e027e44ea35680a0730233,Not a proxy,No delegatecall found,0,1
+2960,0x18d6e366d854d73ca9c5a557ef79ccfaa732ab7b,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+2962,0x9b461df6fc38e1baec08c06eb9e916093af8d11c,Not a proxy,No delegatecall found,0,1
+2970,0xa282d47d40bf1333b901d5d015e490f798ff5324,Not a proxy,No delegatecall found,0,1
+2984,0xd1599e478cc818afa42a4839a6c665d9279c3e50,Not a proxy,No delegatecall found,0,1
+2986,0xcd5da49c0e25a6a9ddd6adc828dcc3230eec31cb,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+2990,0x1bf68a9d1eaee7826b3593c20a0ca93293cb489a,Forward proxy,No assignments to local1 outside the fallback function,0,1
+3001,0x672c58011eb2fc31a68c4207a2fc0bfa53dace09,Forward proxy,No assignments to local1 outside the fallback function,0,1
+3020,0xe487f6e45d292bf8d9b883d007d93714f4bfe148,Unknown,Failed to decompile bytecode,0,1
+3022,0xcf28bf20b662f746a4b487fa81de5a40ac0af49c,Upgradeable proxy,Variable libAddress assigned outside the fallback function,1,0
+3027,0x2d13ee5f41a18a8091a4ae0c3d70838e9e599a03,Forward proxy,No assignments to local4 outside the fallback function,0,1
+3030,0x6c9d4b938a119f91e7eeacd97cb4bed2b8f5d1af,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+3077,0x33ce1d837b9d5cc24e1d06b586abd6548906e2f4,Unknown,Failed to decompile bytecode,0,1
+3082,0x885dd179c76ee5949b9053f1958ba3a91e4cf592,Forward proxy,No assignments to dTokenImplementation outside the fallback function,0,1
+3104,0x7fb425138f0fbfdcde2396cc456c7bddeae046de,Not a proxy,No delegatecall found,0,1
+3117,0xe818704540b7ee03027e364096947fe703e6fa35,Forward proxy,No assignments to local1 outside the fallback function,0,1
+3120,0x14a4123da9ad21b2215dc0ab6984ec1e89842c6d,Forward proxy,No assignments to local4 outside the fallback function,0,1
+3173,0x0a55af91026c0b6a2f9c3cad053385a9e6fad5fd,Forward proxy,No assignments to local1 outside the fallback function,0,1
+3181,0x73453ba0337ce0b215852d07843e557a0ef3df98,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+3191,0x09b3698fee49d7ea43fc46da29d6bbb37f4090bf,Forward proxy,No assignments to local1 outside the fallback function,0,1
+3199,0x5a3d077d05d1c7e146e0ccafdfc91aeeee79e32d,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+3202,0xc28d31eacec212e2f0606f718bfe936a29b98d1c,Forward proxy,No assignments to local4 outside the fallback function,0,1
+3211,0x630d98424efe0ea27fb1b3ab7741907dffeaad78,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+3225,0x34fe0c8100dc8ec65e50ff195faa93297ebf4f19,Not a proxy,No delegatecall found,0,1
+3234,0x3772f9716cf6d7a09ede3587738aa2af5577483a,Unknown,Failed to decompile bytecode,0,1
+3243,0x10e138877df69ca44fdc68655f86c88cde142d7f,Forward proxy,No assignments to local2 outside the fallback function,0,1
+3247,0xcbde11f6781ad278b32c89e585f78835f4807788,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+3253,0xfd95d7d52bfe8310931aaeb583bd479290cf3773,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+3257,0xe725d6ff29d0679c9cb6fa8972a1e8a7fb49610b,Not a proxy,No delegatecall found,0,1
+3294,0x1357fd44379a1365d82cc4a34812f602e31169d0,Forward proxy,No assignments to local1 outside the fallback function,0,1
+3296,0xed4a3adffa428ffd126aed8ba5b8b58bb12c11ca,Not a proxy,No delegatecall found,0,1
+3310,0x556ea1fe7cb0964e7de8dfe6cde63f1e40908541,Forward proxy,No assignments to local4 outside the fallback function,0,1
+3329,0x5a4ade4f3e934a0885f42884f7077261c3f4f66f,Unknown,Failed to decompile bytecode,0,1
+3334,0xef8a2c1bc94e630463293f71bf5414d13e80f62d,Unknown,Failed to decompile bytecode,0,1
+3355,0x1337def172152f2ff82d9545fd6f79fe38df15ce,Forward proxy,No assignments to local1 outside the fallback function,0,1
+3371,0x929c232066398d1103993fc7bb70d1bd6b8e4709,Forward proxy,No assignments to local1 outside the fallback function,0,1
+3373,0x55bcf7173c8840d5517424ed19b7bbf11cfb9f2b,Forward proxy,No assignments to dTokenImplementation outside the fallback function,0,1
+3384,0x0af9087fe3e8e834f3339fe4bee87705e84fd488,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+3386,0x8462cecf31f0211397537d57352e25bb280ff31e,Not a proxy,No delegatecall found,0,1
+3389,0x9cb7563941944db50fa620d2a68814e03749dc64,Forward proxy,No assignments to local1 outside the fallback function,0,1
+3391,0x58feb435c8cdc4a330eb1d78e8463623b8d48be9,Forward proxy,No assignments to local1 outside the fallback function,0,1
+3394,0xe0a0489d93aeb831a04e8b631ebd9827a4db4a58,Forward proxy,No assignments to local4 outside the fallback function,0,1
+3405,0x0324dd195d0cd53f9f07bee6a48ee7a20bad738f,Forward proxy,No assignments to local1 outside the fallback function,0,1
+3442,0xdf670d697f9a4dd3e80e402e4c007ba9d25fc226,Forward proxy,No assignments to dforceSplitImplementation outside the fallback function,0,1
+3455,0xc1330acbbce97cb9695b7ee161c0f95b875a8b0f,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+3457,0x4fee0fedc23217447b67e1ab91194e92f5ec9f04,Forward proxy,No assignments to local1 outside the fallback function,0,1
+3471,0x034e9e82e49cf5d1c2307e06a27d1ccfa15ab275,Forward proxy,No assignments to local4 outside the fallback function,0,1
+3474,0xe3e3bed21fc39d0915f66509ed0aac05db6d6454,Forward proxy,No assignments to address outside the fallback function,0,1
+3486,0x641a26af6d96413e3793881764099ddb1d4b0ae5,Forward proxy,No assignments to local1 outside the fallback function,0,1
+3488,0x6d50db7b4a6fad439f6c6809d70748d070d06720,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+3497,0x6dfdfbfb4b180be4482f8b753fb33720c2831a9f,Not a proxy,No delegatecall found,0,1
+3506,0x22a67ecd108f7a6fc52da9e2655ddfe88eccd9ca,Not a proxy,No delegatecall found,0,1
+3507,0x407fc377e4db82094893029ffdf9a88744c0079f,Forward proxy,No assignments to local1 outside the fallback function,0,1
+3508,0x2025d9a7d5bfce6d09f65db5998062d86d0db74a,Forward proxy,No assignments to local1 outside the fallback function,0,1
+3521,0xe659fa84e0c687760245046ba63329d44320997c,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+3526,0xef55040bf90cb8e9b52d493aaf11f00eea228f74,Forward proxy,No assignments to local1 outside the fallback function,0,1
+3535,0x4a193b61fb5f4c20e3ca03ec9e71df074e29b246,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+3545,0x8e2e99b21207b541ce64ed6f6322dfc086da9b83,Forward proxy,No assignments to local1 outside the fallback function,0,1
+3557,0xd5df2a8b6dcc3e4730703a9c1d65c4cf8d591337,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+3563,0xefd2f8a5f896d4f5cbc62fb6ac36f81ed4c15834,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+3568,0x93f86011574a8176d50a25603f8cc5601b2223bf,Upgradeable proxy,Variable local3 assigned outside the fallback function,1,0
+3569,0x3d5b127eb5295ee3ae376d5c5870ade3226ca993,Forward proxy,No assignments to local4 outside the fallback function,0,1
+3575,0xa8dcbe27f75a5cfda9e073c0205685d12888eb79,Forward proxy,No assignments to local4 outside the fallback function,0,1
+3588,0xee0d3fccfa5ff28b5ec8df0dda6c343775135c98,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+3596,0x6afbaf5722d331023e38c02b4a3e3e3142dfe60f,Unknown,Failed to decompile bytecode,0,1
+3598,0xa2cc669bbab6afae16ea162d528744f563d28614,Upgradeable proxy,Variable local25 assigned outside the fallback function,1,0
+3602,0xf53b56b6fb98aaf514bcd28f6fa6fd20c24e5c22,Not a proxy,No delegatecall found,0,1
+3611,0xeca8a5a73f4c9aa83bb3b8c47f62764dc86aab38,Forward proxy,No assignments to local1 outside the fallback function,0,1
+3615,0x71cd588efa3609bc14e7b0c7c57dddfd3a72e8a2,Not a proxy,No delegatecall found,0,1
+3636,0xae3971e603b11da40aea85d8c2355150c7c47683,Not a proxy,No delegatecall found,0,1
+3641,0x1337def17d00feaea1fb10e09cafa56030349af8,Forward proxy,No assignments to local1 outside the fallback function,0,1
+3671,0x6a03d287caf8448d4f93a5790aac7f16a36b2241,Forward proxy,No assignments to getAddressVars[] outside the fallback function,0,1
+3682,0xf4dfc3df8c83be5a2ec2025491fd157c474f438a,Forward proxy,No assignments to dTokenImplementation outside the fallback function,0,1
+3722,0x810425566d1d3078b15a6f035b17886f18f3c54b,Not a proxy,No delegatecall found,0,1
+3725,0x868277d475e0e475e38ec5cda2d9c83b5e1d9fc8,Forward proxy,No assignments to dTokenImplementation outside the fallback function,0,1
+3741,0x5f24d012556e579bb6b1d71036625a3e152dd35a,Not a proxy,No delegatecall found,0,1
+3743,0xc9ef75cb4c0e3402529d12ed5ffc5206d253ad60,Forward proxy,No assignments to dforceSplitImplementation outside the fallback function,0,1
+3746,0xc704c9aa89d1ca60f67b3075d05fbb92b3b00b3b,Not a proxy,No delegatecall found,0,1
+3749,0xf5a6115aa582fd1beea22bc93b7dc7a785f60d03,Not a proxy,No delegatecall found,0,1
+3760,0x2b096314d5ec92e484c0a946c4219e7e68600c78,Forward proxy,No assignments to local4 outside the fallback function,0,1
+3764,0xec98bb42c8f03485bf659378da694512a16f3482,Not a proxy,No delegatecall found,0,1
+3768,0x1337def1fdfdd82ba18083fd0627d4adb6cdc357,Forward proxy,No assignments to local1 outside the fallback function,0,1
+3779,0xf8ad7dfe656188a23e89da09506adf7ad9290d5d,Forward proxy,No assignments to local1 outside the fallback function,0,1
+3792,0xeb1a33fc62f4c891e55a045ec285a23da9865e56,Not a proxy,No delegatecall found,0,1
+3798,0xe7949d663c7e76906ed266132e473f1f52bd81c8,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+3802,0x5e60d73437accc3294a8edf59639c1dc1baf0d75,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+3811,0xda5ed43b9b6e36b4f27cc6d8c1974532cdbd55f9,Not a proxy,No delegatecall found,0,1
+3821,0x117807a3f18be3351903cdafb064e4a70544e913,Forward proxy,No assignments to local1 outside the fallback function,0,1
+3823,0x8cdf40cc1a94e9ac89edd6e5bf88669f7b242968,Forward proxy,No assignments to local4 outside the fallback function,0,1
+3828,0x3d9403e1e01966cf8c8f1cacbfed10cf96f994dd,Not a proxy,No delegatecall found,0,1
+3845,0xe2612091ec3dbe6f40bbfd0f30e3b8e4ea896e53,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+3862,0x7844daec10812a2d81249be297223f6516d40856,Forward proxy,No assignments to local1 outside the fallback function,0,1
+3886,0x26653c1a589749396189b6a96b4cdf00b4bb5275,Unknown,Failed to decompile bytecode,0,1
+3933,0x5593143eae5000983bb015b2e0ac35c125b3376c,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+3934,0x0000000000075efbee23fe2de1bd0b7690883cc9,Forward proxy,No assignments to local4 outside the fallback function,0,1
+3938,0xae7d62fb6a305e6d9e9f8c43bbb41093c2be52f6,Not a proxy,No delegatecall found,0,1
+3945,0x7c175a3fd4d2f14e40ac418a1e004dfc8edd3ba8,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+3949,0x1f41e42d0a9e3c0dd3ba15b527342783b43200a9,Forward proxy,No assignments to local1 outside the fallback function,0,1
+3951,0x59d39e14cc735b39746c94351e7fbdd92c8d0d3c,Not a proxy,No delegatecall found,0,1
+3957,0xc167bd122aa424030ea13b72a8bd693ae77d034c,Forward proxy,No assignments to local1 outside the fallback function,0,1
+3970,0x2268752e0834731c10c0b07330e1c7dd3d74ba15,Not a proxy,No delegatecall found,0,1
+3976,0x006be10c718c78f5c4d4e767377ea6d9dfa8dd06,Forward proxy,No assignments to local4 outside the fallback function,0,1
+4016,0x0ba45a8b5d5575935b8158a88c631e9f9c95a2e5,Forward proxy,No assignments to getAddressVars[] outside the fallback function,0,1
+4026,0xa4b425f4f96cd1328a3dd494a51a49f7b829cb62,Forward proxy,No assignments to local1 outside the fallback function,0,1
+4029,0xf44c58e703070d4ce7b2440533f29f62713ee071,Forward proxy,No assignments to local4 outside the fallback function,0,1
+4030,0xf005e6943a3ab55800de6a32cafad965203b3b3f,Forward proxy,No assignments to local1 outside the fallback function,0,1
+4038,0xa99289f6742c3f4da809c51dfc6600b12849b20b,Forward proxy,No assignments to local4 outside the fallback function,0,1
+4047,0xeee4a506c662aa1b5581149fdc4e53862359d292,Forward proxy,No assignments to local4 outside the fallback function,0,1
+4055,0xb9afb207320b9f2d401c6022957307c20b0b5e48,Upgradeable proxy,Variable local68 assigned outside the fallback function,1,0
+4058,0xf8ac5743ac5b18070762cc32c4a6140c74d1e3ef,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+4072,0xc6e797f98c948b2ec4c6339d2062d4f5dc1db335,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+4079,0x6cf29c515a33209c6eca43c293004ac80c0614f0,Not a proxy,No delegatecall found,0,1
+4080,0x67d26e94055220fbae2805a3b86e5efb78054c53,Forward proxy,No assignments to local1 outside the fallback function,0,1
+4082,0x6d52de003033bba19eed8463c1f956bd9d9cce65,Forward proxy,No assignments to local1 outside the fallback function,0,1
+4101,0x5e7fa43f3b46dfdb8a77d76490b41f48d23bf918,Forward proxy,No assignments to local1 outside the fallback function,0,1
+4116,0x4da69e35a70e0997b2d15c4f9caa189e669f07ee,Forward proxy,No assignments to local1 outside the fallback function,0,1
+4123,0x31a37120d1e4ee1cdad773d22dab67e968ba3c7b,Forward proxy,No assignments to local4 outside the fallback function,0,1
+4143,0xc0ba711b4e128425be9245ce750d82c90b42d6d2,Not a proxy,No delegatecall found,0,1
+4152,0xb94343a0352435101fd6fe373e0341f72baf7dd7,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+4158,0x682ef9cc637ef56577092b29ae9275a629aae7db,Forward proxy,No assignments to local1 outside the fallback function,0,1
+4167,0xe18b0365d5d09f394f84ee56ed29dd2d8d6fba5f,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+4174,0x590d0fc2096f0bb063d7033fe97f6c1c512ba2b2,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+4196,0x07ec35051431289a08648eacf33bd849bc44c0b9,Not a proxy,No delegatecall found,0,1
+4215,0xffc91f7088bf40f0419b451fb9d85718d8903628,Not a proxy,No delegatecall found,0,1
+4224,0x8c1ebf73bec00d79e83b688db2a9fc34c7e748f7,Not a proxy,No delegatecall found,0,1
+4242,0x109917f7c3b6174096f9e1744e41ac073b3e1f72,Forward proxy,No assignments to dTokenImplementation outside the fallback function,0,1
+4247,0x47b28f365bf4cb38db4b6356864bde7bc4b35129,Forward proxy,No assignments to local1 outside the fallback function,0,1
+4256,0x047fc84504714d526808be07bf17bdd70726ef92,Not a proxy,No delegatecall found,0,1
+4271,0xdd310153e713e2ba332ec5407361e7f846d4127b,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+4300,0xa36ac1f924087b7b959592c3d89cb066d1cc35d5,Not a proxy,No delegatecall found,0,1
+4311,0xfc97c0c12438b6e4cf246cd831b02fef4950dcad,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+4312,0x04cfbc89f161ee33f4984490b1b73a2d1548fa3d,Not a proxy,No delegatecall found,0,1
+4317,0x0073e5e52e2b4fe218d75d994ee2b3c82f9c87ea,Forward proxy,No assignments to local1 outside the fallback function,0,1
+4321,0xfceaaaeb8d564a9d0e71ef36f027b9d162bc334e,Forward proxy,No assignments to local1 outside the fallback function,0,1
+4328,0x7469966be391e8fe5e85ab972819560c7c3d6e4c,Forward proxy,No assignments to local4 outside the fallback function,0,1
+4337,0x3bd30d48cc4bb700edbb7cfe62fd05e91190a2e0,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+4346,0xd52d09ce4c0118b227bd9496d973ed0bf98f8d5a,Not a proxy,No delegatecall found,0,1
+4363,0x87ea2450eab99a74e55e2b446290011765393ac1,Not a proxy,No delegatecall found,0,1
+4389,0x05bab9017705d32a8a0bb2ec06a78fa0fa20f1a4,Forward proxy,No assignments to var_1 outside the fallback function,0,1
+4394,0x02285acaafeb533e03a7306c55ec031297df9224,Forward proxy,No assignments to dTokenImplementation outside the fallback function,0,1
+4397,0xbdc6b0a1bd003eb9b6c72f5103e96466faa16739,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+4400,0x05d70721c4f75473a07907c0d0c6eebed5f2fef7,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+4401,0x15a0c1dd584acda21483443a3031e7774cafce68,Forward proxy,No assignments to local1 outside the fallback function,0,1
+4409,0x7058ee5467edef417746aab0b8cabbbe36ef1798,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+4414,0xd95e7f80766580634b2e0e49d9f66af317994fc7,Not a proxy,No delegatecall found,0,1
+4427,0x346b31b2720faa1089e5a002ce5383bb7425511f,Forward proxy,No assignments to local1 outside the fallback function,0,1
+4432,0x03f34be1bf910116595db1b11e9d1b2ca5d59659,Forward proxy,No assignments to var_2 outside the fallback function,0,1
+4436,0xd7adf1b5e31d1c40e08f16a2095338ce3aa8f2fc,Not a proxy,No delegatecall found,0,1
