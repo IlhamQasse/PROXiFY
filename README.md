@@ -41,7 +41,7 @@ npm install --global sevm
 Clone this repository:
 
 ```bash
-git clone https://github.com/<your-github-username>/proxify.git
+git clone https://github.com/IlhamQasse/PROXiFY.git
 cd proxify
 ```
 Run the application using Streamlit:
