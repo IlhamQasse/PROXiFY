@@ -67,7 +67,6 @@ The application will open in your browser at **http://localhost:8501**.
 
 ```bash
 |-- app.py                 # Main Streamlit app file
-|-- requirements.txt        # Python dependencies (Streamlit)
 |-- proxify_logo.png        # Project logo
 |-- README.md               # This file
 ```
