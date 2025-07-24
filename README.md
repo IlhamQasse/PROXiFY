@@ -6,7 +6,7 @@
 This project is based on the paper:
 
 **"PROXiFY: Detecting and Classifying Upgradeable Proxy Contracts in Ethereum Bytecode"**  
-Submitted to **ICSE 2025**
+Submitted to **ASE 2025**
 
 ## **Features**
 
@@ -73,7 +73,7 @@ The application will open in your browser at **http://localhost:8501**.
 
 ## **Citation**
 
-If you use PROXiFY in your research, please cite the paper submitted to ICSE 2025:
+If you use PROXiFY in your research, please cite the paper submitted to ASE 2025:
 
 **PROXiFY: Detecting and Classifying Upgradeable Proxy Contracts in Ethereum Bytecode**
 
